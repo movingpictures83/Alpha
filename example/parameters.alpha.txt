@@ -1,0 +1,6 @@
+abundance	abund.norm.csv
+metadata	metadata.txt
+samplecol	SAMPLE.ID
+classcol	COCAINE.USE
+class1	User
+class2	Non-User
