@@ -1,5 +1,5 @@
 # Alpha
-# Language: Python
+# Language: R
 # Input: TXT
 # Output: PNG
 # Tested with: PluMA 2.0, R 4.0
